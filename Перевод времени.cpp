@@ -1,4 +1,3 @@
-<h1> Перевод времени</h1>
 #include <iostream>
 using namespace std;
 
